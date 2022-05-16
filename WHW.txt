@@ -1,0 +1,1 @@
+16th May ===> Intro, Syntax, data, data-types, variables, print statements, semi-colon, abstraction, console, Rules of data-types, Compiler, Naming conventions for variables (camel-case), Single-line comment vs Multi-line comment, 
