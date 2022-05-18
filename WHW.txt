@@ -1,3 +1,5 @@
 16th May ===> Intro, Syntax, data, data-types, variables, print statements, semi-colon, abstraction, console, Rules of data-types, Compiler, Naming conventions for variables (camel-case), Single-line comment vs Multi-line comment.
 
 17th May ===> Z-Pattern, Concatenation, Declaration vs Initialization vs Re-Initialization, Operators: Arithmetic, Assignment and Relational, Mistake: int age = age + 10; , floor value.
+
+18th May ===> Age calculator 1, Scanner class, int input, String input, next() vs nextLine(), Age calculator 2
