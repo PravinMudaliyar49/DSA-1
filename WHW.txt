@@ -3,3 +3,5 @@
 17th May ===> Z-Pattern, Concatenation, Declaration vs Initialization vs Re-Initialization, Operators: Arithmetic, Assignment and Relational, Mistake: int age = age + 10; , floor value.
 
 18th May ===> Age calculator 1, Scanner class, int input, String input, next() vs nextLine(), Age calculator 2
+
+19th May ===> Salary calculator, Bodmas rule.
