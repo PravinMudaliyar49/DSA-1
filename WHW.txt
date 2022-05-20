@@ -5,3 +5,5 @@
 18th May ===> Age calculator 1, Scanner class, int input, String input, next() vs nextLine(), Age calculator 2
 
 19th May ===> Salary calculator, Bodmas rule.
+
+20th May ===> Control statements, Conditional statements, License program 1, Odd even program, else-if and License program 2,  Some rules of conditional statements.
