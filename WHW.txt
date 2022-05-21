@@ -7,3 +7,5 @@
 19th May ===> Salary calculator, Bodmas rule.
 
 20th May ===> Control statements, Conditional statements, License program 1, Odd even program, else-if and License program 2,  Some rules of conditional statements.
+
+21st May ===> Positive-Negative-Neutral, Remaining rules of conditional statements, .equals(), Relation between 2 numbers (basic solution), VS-Code shortcuts.
