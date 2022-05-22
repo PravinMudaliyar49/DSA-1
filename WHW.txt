@@ -10,4 +10,4 @@
 
 21st May ===> Positive-Negative-Neutral, Remaining rules of conditional statements, .equals(), Relation between 2 numbers (basic solution), VS-Code shortcuts.
 
-22nd May ===> Nested if-else using last lecture's question, Grading system, How to build profiles online.
+22nd May ===> Nested if-else using last lecture's question, Grading system, How to build profiles online. No PDF.
