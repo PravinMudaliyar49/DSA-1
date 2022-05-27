@@ -12,8 +12,12 @@
 
 22nd May ===> Nested if-else using last lecture's question, Grading system, How to build profiles online. No PDF.
 
-23rd May ===> Covered Palash and Darshil, Greatest amongst 3.
+23rd May ===> Covered Palash and Darshil, Greatest amongst 2, Greatest amongst 3.
 
 24th May ===> Licence Program 2, char input.
 
 25th May ===> Calculator, Intro to decimal number system.
+
+26th May ===> Holiday.
+
+27th May ===> Extract last digit, Greatest amongst 6, Unary operator basics.
