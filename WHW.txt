@@ -21,3 +21,5 @@
 26th May ===> Holiday.
 
 27th May ===> Extract last digit, Greatest amongst 6, Unary operator basics.
+
+28th May ===> Pre-increment vs Post-increment (Completed logical operator), Short circuit, Swap 2 variables.
