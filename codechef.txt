@@ -1,3 +1,0 @@
-chefGivesParty: https://www.codechef.com/problems/PARTY2
-myFirstContest: https://www.codechef.com/problems/MY1STCONTEST
-A or B: https://www.codechef.com/problems/AORB
