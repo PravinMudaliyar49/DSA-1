@@ -27,3 +27,5 @@
 29th May ===> Leap year program, Second greatest amongst 3, Sum of last 2 digits.
 
 30th May ===> CodeChef questions: Chef gives Party, My very 1st contest!
+
+31st May ===> Palash revision, Need for conditional statements, Syntax of conditional statements, Stack diagram, Meaning of an iteration, Intro to scope, Print nums in a user given range.
