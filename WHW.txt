@@ -31,3 +31,5 @@
 31st May ===> Palash revision, Need for conditional statements, Syntax of conditional statements, Stack diagram, Meaning of an iteration, Intro to scope, Print nums in a user given range.
 
 1st June ===> Print numbers in decreasing order, Check if we recieved invalid input, Exclude a number from the user given range, Exclude 2 numbers from the user given range, Exclude a given range.
+
+2nd June ===> Mistakes with for-loop and TLE, loop with Scanner. No pdf.
