@@ -33,3 +33,5 @@
 1st June ===> Print numbers in decreasing order, Check if we recieved invalid input, Exclude a number from the user given range, Exclude 2 numbers from the user given range, Exclude a given range.
 
 2nd June ===> Mistakes with for-loop and TLE, loop with Scanner. No pdf.
+
+3rd June ===> Jump statements (break and continue), Sum of n natural numbers.
