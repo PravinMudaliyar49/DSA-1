@@ -35,3 +35,5 @@
 2nd June ===> Mistakes with for-loop and TLE, loop with Scanner. No pdf.
 
 3rd June ===> Jump statements (break and continue), Sum of n natural numbers.
+
+4th June ===> Apple and Orange, Double or Triple room, Elections.
