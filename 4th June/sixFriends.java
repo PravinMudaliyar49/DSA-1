@@ -9,8 +9,11 @@ public class sixFriends {
 
         System.out.println("Enter cost of a triple room");
         int y = sc.nextInt();
-        
-        if (x * 3 < y * 2) {
+
+        int doubleRoomCost = x * 3;
+        int tripleRoomCost = y * 2;
+
+        if (doubleRoomCost < tripleRoomCost) {
             System.out.println(x * 3);
         } else {
             System.out.println(y * 2);
