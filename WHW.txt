@@ -38,8 +38,10 @@
 
 4th June ===> Apple and Orange, Double or Triple room, Elections.
 
-5th May ===> Holiday.
+5th June ===> Holiday.
 
-6th May ===> Table printing, while loop, infinite odd-even.
+6th June ===> Table printing, while loop, infinite odd-even.
 
-7th May ===> Infinite license.
+7th June ===> Infinite license.
+
+8th June ===> Count digits, Sum of Digits.
