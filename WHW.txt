@@ -47,3 +47,5 @@
 8th June ===> Count digits, Sum of Digits.
 
 9th June ===> Sum of odd nums in the user given range, Factorial, Reverse the user given number.
+
+10th June ===> Armstrong number (easy and hard).
