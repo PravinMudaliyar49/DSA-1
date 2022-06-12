@@ -51,3 +51,5 @@
 10th June ===> Armstrong number (easy and hard).
 
 11th June ===> Interview type questions:  A or B, Fill the Bucket, Volume Control.
+
+12th June ===> Dominant Army, Packaging Cupcakes.
