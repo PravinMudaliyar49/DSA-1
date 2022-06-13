@@ -54,4 +54,4 @@
 
 12th June ===> Dominant Army, Packaging Cupcakes.
 
-13th June ===> Completed Packaging Cupcakes, System.out.print(), Intro to nested loops, 
+13th June ===> Completed Packaging Cupcakes, System.out.print(), Intro to nested loops, Advanced tables.
