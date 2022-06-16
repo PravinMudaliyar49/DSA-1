@@ -57,3 +57,7 @@
 13th June ===> Completed Packaging Cupcakes, System.out.print(), Intro to nested loops, Advanced tables.
 
 14th June ===> Intro to star pattern, Greatest digit.
+
+15th June ===> Holiday.
+
+16th June ===> n*n pattern, pattern1.
