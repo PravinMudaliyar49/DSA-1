@@ -61,3 +61,5 @@
 15th June ===> Holiday.
 
 16th June ===> n*n pattern, pattern1.
+
+17th June ===> Coverup: Sum of odd nums, factorial, reverse the number, armstrong easy and hard, fill the bucket, dominant army.
