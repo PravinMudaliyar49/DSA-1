@@ -77,5 +77,3 @@
 24th June ==> Revision of Prime numbers, Prime numbers completed.
 
 25th June ==> Pattern 3, Optimized sum of odd numbers.
-
-25th June ==> 
