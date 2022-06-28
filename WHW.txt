@@ -79,3 +79,7 @@
 25th June ==> Pattern 3, Optimized sum of odd numbers.
 
 26th June ==> Pattern 4, Prime in a range.
+
+27th June ==> Holiday.
+
+28th June ==> Pattern 5, Rating Improvement.
