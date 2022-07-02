@@ -87,3 +87,5 @@
 29th June and 30th June ==> Holiday.
 
 1st July ==> for-for-break, Pattern 6 half completed.
+
+2nd July ==> Completed Pattern 6, Fibonacci, Pattern 7.
