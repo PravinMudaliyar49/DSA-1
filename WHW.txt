@@ -93,3 +93,5 @@
 3rd July ==> Mukesh coverup till Pattern 6.
 
 4th July ==> Tribonacci, isFibonacci, Pattern 8.
+
+5th July ==> Completed Mukesh coverup.
