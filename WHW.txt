@@ -95,3 +95,5 @@
 4th July ==> Tribonacci, isFibonacci, Pattern 8.
 
 5th July ==> Completed Mukesh coverup.
+
+6th July ==> Binary system introduction, Bitwise add and subtract, Pattern 9, Pattern 10.
