@@ -12,6 +12,9 @@ public class pattern10 {
                 System.out.print(count++ + "\t");
             }
 
+            char ch = 10000;
+            System.out.println(ch);
+
             System.out.println();
         }
 
