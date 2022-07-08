@@ -99,3 +99,5 @@
 6th July ==> Binary system introduction, Bitwise add and subtract, Pattern 9, Pattern 10.
 
 7th July ==> Integer.MAX_VALUE and Integer.MIN_VALUE, loss of precision, Typecasting, Largest and second largest.
+
+8th July ==> Pattern 11 and Pattern 12.
