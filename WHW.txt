@@ -102,4 +102,4 @@
 
 8th July ==> Pattern 11 and Pattern 12.
 
-9th July ==> Cummulative multiplication, Smallest and second smallest and Intro to Array.
+9th July ==> Cummulative multiplication, Smallest and second smallest, Intro to Array.
