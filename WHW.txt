@@ -101,3 +101,5 @@
 7th July ==> Integer.MAX_VALUE and Integer.MIN_VALUE, loss of precision, Typecasting, Largest and second largest.
 
 8th July ==> Pattern 11 and Pattern 12.
+
+9th July ==> Cummulative multiplication, Smallest and second smallest and Intro to Array.

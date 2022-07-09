@@ -5,8 +5,8 @@ public class greatestAndSecondGreatest {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
 
-        int largest = 0;
-        int secondLargest = 0;
+        int largest = Integer.MIN_VALUE;
+        int secondLargest = Integer.MIN_VALUE;
 
         for (int i = 1; i <= num; i++) {
             int input = sc.nextInt();
