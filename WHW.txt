@@ -106,4 +106,4 @@
 
 10th July ==> Holiday.
 
-11th July ==> Array with Scanner, Cummulative division, Span of an array half completed.
+11th July ==> Alternative syntax for Array, Diagrammatic representation of array, index, Array with loop and scanner, runtime vs compile time.

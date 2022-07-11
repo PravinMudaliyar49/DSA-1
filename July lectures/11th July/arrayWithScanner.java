@@ -7,13 +7,13 @@ public class arrayWithScanner {
 
         int[] arr = new int[num];
 
-        for(int i = 0; i < num; i++) {
-            int val = sc.nextInt();
-            arr[i] = val;
+        for (int i = 0; i < num; i++) {
+            int j = sc.nextInt();
+            arr[i] = j;
         }
 
-        for(int i = 0; i < arr.length; i++) {
-            System.out.println("Element " + arr[i] + " is at " + i + " index.");
+        for (int i = 0; i < num; i++) {
+            System.out.println("Element at " + (i + 1) + " position is " + arr[i]);
         }
 
         sc.close();
