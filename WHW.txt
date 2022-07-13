@@ -109,3 +109,5 @@
 11th July ==> Alternative syntax for Array, Diagrammatic representation of array, index, Array with loop and scanner, runtime vs compile time.
 
 12th July ==> Cummulative division, Span of an array.
+
+13th July ==> First index and frequency.
