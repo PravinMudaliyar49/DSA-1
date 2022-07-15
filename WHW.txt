@@ -110,4 +110,6 @@
 
 12th July ==> Cummulative division, Span of an array.
 
-13th July ==> First index and frequency.
+13th July ==> First index and frequency, Arrays.sort().
+
+15th July ==> Internal storage, Reverse append.
